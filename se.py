@@ -7,7 +7,14 @@ from tkinter import ttk
 #   Name: Andre Puddie, Simon Irwin, Domingo Esparza
 #   INST 326 :  Prof Cruz
 #   Due Date: 12/21/2020
-
+# How to run the Code
+#Open it up in Github Desktop
+#Once it's up, clone the file
+#Press the Respository Button at the top
+#Press Open in Visiual Studios
+#Then once it's open in Visiual Studio
+#Make Sure everything has been imported
+#Before then running with the play button or from the terminal 
 
 class Moviechecker(tk.Frame):
     """ This classes holds the database, search function, list function for the Moviechcker
